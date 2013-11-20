@@ -1,0 +1,4 @@
+exportPattern("^[^\\.]")
+import(methods)
+exportClasses(Weights,Weights2)
+exportMethods("+","-","*")
