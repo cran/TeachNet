@@ -5,7 +5,7 @@
 Computes squared error
 }
 \description{
-Computes squared diference between two values
+Computes squared difference between two values
 }
 \usage{
 squaredError(x, y)

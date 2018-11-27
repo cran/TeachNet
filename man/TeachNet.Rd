@@ -57,7 +57,7 @@ If TRUE evaluation is computed.
 In the beginning the weights are initialized with a standard normal distribution. But this package is due to its very slow code just to understand the backpropagation algorithm. A good package for real training of neural networks is for example 'nnet'.
 }
 \value{
-TeachNet returns a S4 class object Weights for one hidden layer or Weights2  for two hidden layer. In addition if 'all' is FALSE, it prints an Evaluation. First part is the best found Threshold and V (V=True Positive - False Positive) for the prediction on the test Dataset. Then a confusion matrix and the accuracy of the modell copmared to the procentage of observation with class zero and one. 
+TeachNet returns a S4 class object Weights for one hidden layer or Weights2  for two hidden layer. In addition if 'all' is FALSE, it prints an Evaluation. First part is the best found Threshold and V (V=True Positive - False Positive) for the prediction on the test Dataset. Then a confusion matrix and the accuracy of the model compared to the percentage of observation with class zero and one. 
 }
 \author{
 Georg Steinbuss

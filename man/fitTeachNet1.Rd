@@ -5,7 +5,7 @@
 One step in backpropagation
 }
 \description{
-One step in the backpropagation algorithmn for a one hidden layer network
+One step in the backpropagation algorithm for a one hidden layer network
 }
 \usage{
 fitTeachNet1(data, weights, hidden.structure, learning.rate, f, f_d, decay, m_f, er)
@@ -22,13 +22,13 @@ current weights
 the number of neurons in the hidden layer
 }
   \item{learning.rate}{
-rate by wich factor for backpropagation gets smaller
+rate by which factor for backpropagation gets smaller
 }
   \item{f}{
-acctivation function
+activation function
 }
   \item{f_d}{
-derivitive of acctivation function
+derivative of activation function
 }
   \item{decay}{
 value of weight decay

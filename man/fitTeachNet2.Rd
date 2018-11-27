@@ -5,7 +5,7 @@
 One step in backpropagation
 }
 \description{
-One step in the backpropagation algorithmn for a two hidden layers network
+One step in the backpropagation algorithm for a two hidden layers network
 }
 \usage{
 fitTeachNet2(data, weights, hidden.structure, learning.rate, f, f_d, decay, m_f, er)
@@ -22,13 +22,13 @@ current weights
 vector with first element the number of hidden neurons in the first hidden layer second element for the second hidden layer
 }
   \item{learning.rate}{
-rate by wich factor for backpropagation gets smaller
+rate by which factor for backpropagation gets smaller
 }
   \item{f}{
-acctivation function
+activation function
 }
   \item{f_d}{
-derivitive of acctivation function
+derivative of activation function
 }
   \item{decay}{
 value of weight decay

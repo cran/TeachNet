@@ -15,7 +15,7 @@ This function computes for a given data set and weights of a one hidden layer ne
 The Weights object TeachNet returned after training.
 }
  \item{newdata}{
-The data set you wich to predict. Has to have the same variables as the used training data set (except for the class variable) and has to be scaled (Z-Scores)!
+The data set you which to predict. Has to have the same variables as the used training data set (except for the class variable) and has to be scaled (Z-Scores)!
 }
   \item{delete.firstColumn}{
 When class variable is first column, set to TRUE 

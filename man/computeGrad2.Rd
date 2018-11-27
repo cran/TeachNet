@@ -30,10 +30,10 @@ number of neurons in second hidden layer
 the weights with that the gradient should be computed
 }
   \item{f}{
-the acctivation function of the neural network
+the activation function of the neural network
 }
   \item{f_d}{
-the derivative of the acctication function 
+the derivative of the activation function 
 }
   \item{m_f}{
 the function for the interim value m. It is two times the output of the network minus the observed characteristic.

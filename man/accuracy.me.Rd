@@ -12,7 +12,7 @@ accuracy.me(obs, predict, thres = 0.5)
 }
 \arguments{
   \item{obs}{
-The obsrvations
+The observations
 }
   \item{predict}{
 The predictions for the observations
@@ -22,7 +22,7 @@ A threshold up to which a prediction is class 0 or 1. A value from 0 to 1.
 }
 }
 \value{
-Returns a 1 x 3 matrix with the percentage of ovservations with class zero, with class one and last the accuracy of the prediction.
+Returns a 1 x 3 matrix with the percentage of observations with class zero, with class one and last the accuracy of the prediction.
 }
 \author{
 Georg Steinbuss

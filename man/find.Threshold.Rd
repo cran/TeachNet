@@ -5,7 +5,7 @@
 Finds best threshold
 }
 \description{
-Finds the best threshold to transform propabilities in classes
+Finds the best threshold to transform probabilities in classes
 }
 \usage{
 find.Threshold(obs, stepsize = 0.1, predict)
